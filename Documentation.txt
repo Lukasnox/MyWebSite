@@ -1,49 +1,46 @@
 					Documentation WebProfile
 -----------------------------------------------------------------------------------------------------
 Links icons↓
+	LinkedIn → 64px (https://img.icons8.com/color/48/000000/linkedin.png)
+	↑ColorUser{
+	PretoClaro → #252323
+	Roxo → #9B59B6 
+	Preto → #000000
+	Branco → #FFFFFF
+	}
 
-LinkedIn → 64px (https://img.icons8.com/color/48/000000/linkedin.png)
-↑ColorUser{
-PretoClaro → #252323
-Roxo → #9B59B6 
-Preto → #000000
-Branco → #FFFFFF
-}
+	Email → 64px (https://img.icons8.com/flat_round/48/000000/secured-letter.png)
+	↑ColorUser{
+	PretoClaro → #252323
+	Roxo → #9B59B6 
+	CinzaClaro → #CCCCCC
+	AzulClarinho → #E0FCF8
+	Branco → #FFFFFF
+	Verde → #2ECC71
+	}
 
-Email → 64px (https://img.icons8.com/flat_round/48/000000/secured-letter.png)
-↑ColorUser{
-PretoClaro → #252323
-Roxo → #9B59B6 
-CinzaClaro → #CCCCCC
-AzulClarinho → #E0FCF8
-Branco → #FFFFFF
-Verde → #2ECC71
-}
-
-GitHub → 64px (https://img.icons8.com/clouds/64/000000/github.png)
-↑ColorUser{
-PretoClaro → #252323
-Roxo → #9B59B6 
-Branco → #FFFFFF
-CinzaClaro → #CCCCCC
-}
+	GitHub → 64px (https://img.icons8.com/clouds/64/000000/github.png)
+	↑ColorUser{
+	PretoClaro → #252323
+	Roxo → #9B59B6 
+	Branco → #FFFFFF
+	CinzaClaro → #CCCCCC
+	}
 -----------------------------------------------------------------------------------------------------
 Barra de menu↓
 Color #252323
 
 -----------------------------------------------------------------------------------------------------
 Color Palette↓
-
-BaseColor↓
-CinzaEscuro → #666666
-Roxo → #9B59B6
-Laranja → #E67E22
-Verde → #2ECC71
-Branco → #FFFFFF
-Preto → #000000
+	BaseColor↓
+	CinzaEscuro → #666666
+	Roxo → #9B59B6
+	Laranja → #E67E22
+	Verde → #2ECC71
+	Branco → #FFFFFF
+	Preto → #000000
 -----------------------------------------------------------------------------------------------------
 
 -----------------------------------------------------------------------------------------------------
 Sites Usados↓
-
 Icons → https://icons8.com.br
