@@ -2,7 +2,7 @@
 -----------------------------------------------------------------------------------------------------
 Links icons↓
 
-LinkedIn → 48px (https://img.icons8.com/color/48/000000/linkedin.png)
+LinkedIn → 64px (https://img.icons8.com/color/48/000000/linkedin.png)
 ↑ColorUser{
 PretoClaro → #252323
 Roxo → #9B59B6 
@@ -10,7 +10,7 @@ Preto → #000000
 Branco → #FFFFFF
 }
 
-Email → 48px (https://img.icons8.com/flat_round/48/000000/secured-letter.png)
+Email → 64px (https://img.icons8.com/flat_round/48/000000/secured-letter.png)
 ↑ColorUser{
 PretoClaro → #252323
 Roxo → #9B59B6 
