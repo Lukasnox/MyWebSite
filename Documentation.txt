@@ -1,31 +1,48 @@
 Documentation WebProfile
 -----------------------------------------------------------------------------------------------------
-Links icons↓
+	icons↓
 	LinkedIn → 64px (https://img.icons8.com/color/48/000000/linkedin.png)
 	↑ColorUser{
-	PretoClaro → #252323
-	Roxo → #9B59B6 
-	Preto → #000000
-	Branco → #FFFFFF
+		PretoClaro → #252323
+		Roxo → #9B59B6 
+		Preto → #000000
+		Branco → #FFFFFF
 	}
 
 	Email → 64px (https://img.icons8.com/flat_round/48/000000/secured-letter.png)
 	↑ColorUser{
-	PretoClaro → #252323
-	Roxo → #9B59B6 
-	CinzaClaro → #CCCCCC
-	AzulClarinho → #E0FCF8
-	Branco → #FFFFFF
-	Verde → #2ECC71
+		PretoClaro → #252323
+		Roxo → #9B59B6 
+		CinzaClaro → #CCCCCC
+		AzulClarinho → #E0FCF8
+		Branco → #FFFFFF
+		Verde → #2ECC71
 	}
 
 	GitHub → 64px (https://img.icons8.com/clouds/64/000000/github.png)
 	↑ColorUser{
-	PretoClaro → #252323
-	Roxo → #9B59B6 
-	Branco → #FFFFFF
-	CinzaClaro → #CCCCCC
+		PretoClaro → #252323
+		Roxo → #9B59B6 
+		Branco → #FFFFFF
+		CinzaClaro → #CCCCCC
 	}
+	
+	Adobe → 64px (https://icons8.com.br/icons/set/adobe-acrobat)
+	↑ColorUser{
+		PretoClaro → #252323
+		Roxo → #9B59B6 
+		Preto → #000000
+		Branco → #FFFFFF
+	}
+
+	Search → (no have Link)
+	↑ColorUser{
+		Branco → #FFFFFF
+		Verde → #2ECC71
+		CinzaClaro → #CCCCCC
+		Preto → #000000
+	}
+	
 -----------------------------------------------------------------------------------------------------
 Barra de menu↓
 Color #252323
